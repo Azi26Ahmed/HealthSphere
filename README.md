@@ -63,6 +63,4 @@ HealthSphere/
 ├── dataset/                # Datasets used for model training
 ├── models/                 # Trained ML models and scalers
 ├── reports/                # Generated reports
-├── Animation/              # UI assets (GIFs, animations, etc.)
-
-
+└── Animation/              # UI assets (GIFs, animations, etc.)
