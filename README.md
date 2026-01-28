@@ -45,22 +45,24 @@ It uses **machine learning models** to predict disease risks, analyze medical re
 
 ## 📂 Project Structure
 
-Healthsphere/
-├── app.py
-├── requirements.txt
-├── components/
-│ ├── chatbot.py
-│ ├── dashboard.py
-│ ├── database.py
-│ ├── pdf.py
-│ ├── statistics.py
-│ ├── train_models.py
-│ ├── utils.py
-│ └── visualization.py
-├── dataset/
-├── models/
-├── reports/
-└── Animation/
-
+HealthSphere/
+│
+├── app.py                  # Main Streamlit application
+├── requirements.txt        # Project dependencies
+│
+├── components/             # Core application logic
+│   ├── chatbot.py
+│   ├── dashboard.py
+│   ├── database.py
+│   ├── pdf.py
+│   ├── statistics.py
+│   ├── train_models.py
+│   ├── utils.py
+│   └── visualization.py
+│
+├── dataset/                # Datasets used for model training
+├── models/                 # Trained ML models and scalers
+├── reports/                # Generated reports
+├── Animation/              # UI assets (GIFs, animations, etc.)
 
 
