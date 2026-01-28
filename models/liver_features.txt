@@ -1,0 +1,1 @@
+Age,Gender,Total Bilirubin,Direct Bilirubin,Alkaline Phosphotase,Alanine Aminotransferase,Aspartate Aminotransferase,Total Proteins,Albumin,Albumin and Globulin Ratio

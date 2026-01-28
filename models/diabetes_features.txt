@@ -1,0 +1,1 @@
+Pregnancies,Glucose Level,Blood Pressure,Skin Thickness,Insulin Level,Body Mass Index,Diabetes Pedigree Function,Age

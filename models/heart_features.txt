@@ -1,0 +1,1 @@
+Age,Gender,Chest Pain Type,Resting Blood Pressure,Serum Cholesterol (mg/dl),Fasting Blood Sugar > 120 mg/dl,Resting Electrocardiographic Results,Maximum Heart Rate Achieved,Exercise Induced Angina,ST Depression Induced by Exercise,Slope of the Peak Exercise ST Segment,Number of Major Vessels Colored by Fluoroscopy,Thalassemia
